@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20211010_155427 - copia (2).jpg</filename>
+	<path>D:\LEAR\models\research\object_detection\images\test\IMG_20211010_155427 - copia (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>842</xmin>
+			<ymin>1398</ymin>
+			<xmax>1267</xmax>
+			<ymax>2179</ymax>
+		</bndbox>
+	</object>
+</annotation>

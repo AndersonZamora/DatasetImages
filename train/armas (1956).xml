@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>armas (1956).jpg</filename>
+	<path>D:\LEAR\models\research\object_detection\images\train\armas (1956).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1554</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>971</ymin>
+			<xmax>546</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+</annotation>

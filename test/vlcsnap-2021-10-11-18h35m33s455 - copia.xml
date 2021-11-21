@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vlcsnap-2021-10-11-18h35m33s455 - copia.png</filename>
+	<path>D:\LEAR\models\research\object_detection\images\test\vlcsnap-2021-10-11-18h35m33s455 - copia.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>648</ymin>
+			<xmax>750</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>
